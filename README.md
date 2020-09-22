@@ -1,7 +1,7 @@
 # Flutter Halloween UI
 
 <img src="screenshots/halloween.png" alt="drawing" width="500"/></br>
-Spooky vibes...</br>Graphics used from [Freepik](https://www.freekpik.com).
+</br>Graphics used from  <a href="https://www.freepik.com/"><img src="screenshots/freepik.png" width="100" title="TMDB" alt="TMDB Log"></a>
 
 ## Screenshots
 
